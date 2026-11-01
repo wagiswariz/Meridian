@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Sync — QGIS Cloud & Dynamic Path Hub",
+  "description": "Cross-device QGIS project portability hub with real .qgs/.qgz relative path conversion, central multi-OS mount configuration, and PyQGIS QgsPathResolver startup script generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
